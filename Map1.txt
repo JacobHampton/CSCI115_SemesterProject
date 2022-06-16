@@ -1,0 +1,9 @@
+6 6
+0
+29
+F M P P P M
+P M P M P M
+P M P F F M
+P F P M F M
+F M F M P P
+P P P F M M

@@ -1,0 +1,11 @@
+8 8 
+16
+61
+F F P P P M M P
+M M M M P F P F
+P M P F F M M F
+P M P M F F M P
+F M F M P P M F
+P P P F F F M P
+M M M M M P M F
+M P P P P P P P

@@ -1,0 +1,10 @@
+7 7 
+0
+14
+F F P P P M M
+M M M M P F P
+P M P F F M M 
+P M P M F F M
+F M F M P P M
+P P P F F F M
+M M M M M P M

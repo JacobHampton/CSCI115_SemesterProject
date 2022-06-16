@@ -1,0 +1,13 @@
+10 10
+0
+95
+F F P P P M M P M M
+M M M M P F P F M F
+P M P F F M M F M F
+P M P M F F M P P F
+F M F M P P M F M M
+P P P F F F M P F P
+M M M M M P M F M P
+M P P P P P P P M M
+M P M P M M F F P P
+M F P M F F P M F M
